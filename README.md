@@ -1,5 +1,5 @@
 # better-jfinal
-jfinal项目以embed-tomcat或undertow的方式运行,无须打war包,无续部署tomcat
+jfinal项目以embed-tomcat或undertow的方式运行,无需打war包,无需部署tomcat
 
 用appassembler-maven-plugin打包，然后运行bin目录中的脚本即可。
 
